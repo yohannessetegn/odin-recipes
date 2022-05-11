@@ -1,2 +1,2 @@
 # odin-recipes
-recipes project
+tasty Ethiopian food recipes  project
