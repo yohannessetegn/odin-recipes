@@ -1,0 +1,33 @@
+*{
+    background-color: antiquewhite;
+}
+h1{
+    color: white;
+    background-color: #835f5f;
+    text-align: left;
+}
+h2{
+    color:white;
+    background-color: #835f5f;
+}
+img{
+    text-align: center;
+}
+i{
+    font-weight: bold;
+}
+a:link{
+    color:blue;
+}
+a:visited{
+    color:rgb(38, 148, 139)
+}
+a:hover{
+    text-decoration:overline;
+}
+li{
+    list-style-type: ethiopic-numeric;
+}
+strong{
+    font-weight: lighter;
+}
