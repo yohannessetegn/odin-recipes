@@ -25,7 +25,7 @@ a:visited{
 a:hover{
     text-decoration:overline;
 }
-li{
+ol{
     list-style-type: ethiopic-numeric;
 }
 strong{
